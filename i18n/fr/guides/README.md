@@ -1,5 +1,5 @@
 ---
-sourceHash: a99c0750adf8a6d7d2849cc06cdc883982f7fc088249431dde605011a952e761
+sourceHash: 9d9358fe071dd3db16de1ebbcff3ef0c67d6ceb42a45698a46cfb7db03bce8c9
 sourcePath: docs/guides/README.md
 ---
 
@@ -16,6 +16,10 @@ Guides pratiques orientés tâche (plus courts et plus ciblés que les
 - **[Quand les deux puces d'une bobine se lisent comme deux bobines](./twin-tag-pair.md)** — le
   seul test qui tranche, pourquoi deux passes d'écriture séparées ne peuvent
   jamais faire une paire, et comment réécrire les deux puces en une seule.
+- **[Dépannage : les problèmes de puce, symptôme par symptôme](./troubleshooting.md)** —
+  les problèmes de lecture, d'écriture et de vérification de la puce
+  elle-même, du plus fréquent au plus rare ; les problèmes de lien imprimante
+  restent sur les pages par marque.
 
 > **TODO :** d'autres guides prévus :
 >

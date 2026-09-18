@@ -11,6 +11,9 @@ Task-oriented how-to guides (shorter and more targeted than
 - **[When a spool's two chips read as two spools](./twin-tag-pair.md)** — the
   one test that settles it, why two separate write passes can never make a
   pair, and how to rewrite the two chips as one.
+- **[Troubleshooting: chip problems, symptom by symptom](./troubleshooting.md)** —
+  reading, writing and verification problems with the chip itself, most
+  frequent first; printer-link problems stay on the per-vendor pages.
 
 > **TODO:** more guides planned:
 >

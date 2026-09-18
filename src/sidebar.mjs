@@ -81,6 +81,7 @@ export const sidebar = [
     { slug: 'guides' },
     { slug: 'guides/twin-tag-pair' },
     { slug: 'guides/filament-materials-guide' },
+    { slug: 'guides/troubleshooting' },
   ]),
 
   group('Philosophy & vision', 'Philosophie et vision', [
